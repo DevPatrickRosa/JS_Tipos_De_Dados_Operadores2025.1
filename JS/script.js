@@ -66,6 +66,40 @@ console.log(`A soma de 2 + 2 é: ${2+2}`);
 console.log(`A multiplicação de 3 * 3 é: ${3*3}`);
 console.log("Vamos testar a concatenação com a " + `interpolação para ver se fica ${5+5}`);//mix de concatenação e interpolação
 
+// 8 - Booleans
+
+console.log(typeof true);
+
+console.log(typeof false);
+
+console.log(5 > 2);
+
+console.log(200 < 100);
+
+console.log(3 == 3 );
+
+console.log(3 == 4);
+
+//- Idênticos
+
+console.log(9 == "9"); // são o mesmo caractere
+
+console.log(9 ==="9"); // o número é diferente
+
+console.log(9 != "9");
+
+console.log(9 !== "9");
+
+
+
+
+
+
+
+
+
+
+
 
 
 
